@@ -1,2 +1,24 @@
-
 /* Your CSS Code here. */
+
+
+#first{
+    height: 100vh;
+    width:95vw;
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMjE4NTcwMjU3MF5BMl5BanBnXkFtZTgwODE1MTAwMjE@._V1_.jpg);
+    /* opacity: 0.3; */
+}
+
+.title{
+    font-weight: bold;
+    font-size: larger;
+}
+
+summary{
+    font-weight: 700;
+    font-style: normal;
+    /* opacity: 1; */
+}
+
+aside{
+    background-color: burlywood;
+}
